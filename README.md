@@ -2,8 +2,8 @@
 
 ## Tecnologias utilizadas 
 
--Redux para centraliar o estado da aplicação 
--React-Routes para navegação 
+* Redux para centraliar o estado da aplicação 
+* React-Routes para navegação 
 
 
 
