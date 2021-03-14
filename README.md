@@ -1,5 +1,7 @@
 # Projeto para processo seletivo empresa b2w 
 
+* Loja Pokemons de fogo 
+
 ## Tecnologias utilizadas 
 
 * Redux para centraliar o estado da aplicação 
